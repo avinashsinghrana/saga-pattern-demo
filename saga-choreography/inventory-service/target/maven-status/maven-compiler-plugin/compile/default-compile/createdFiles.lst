@@ -1,0 +1,5 @@
+com/example/saga/choreography/inventory/InventoryApplication.class
+com/example/saga/choreography/inventory/InventoryItem.class
+com/example/saga/choreography/inventory/InventoryRepository.class
+com/example/saga/choreography/inventory/InventoryController.class
+com/example/saga/choreography/inventory/OrderEventDTO.class

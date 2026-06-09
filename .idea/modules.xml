@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/saga-choreography/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/saga-choreography/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saga-orchestration/inventory-service/inventory-service (1).iml" filepath="$PROJECT_DIR$/saga-orchestration/inventory-service/inventory-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/saga-orchestration/order-orchestrator/order-orchestrator.iml" filepath="$PROJECT_DIR$/saga-orchestration/order-orchestrator/order-orchestrator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saga-choreography/order-service/order-service.iml" filepath="$PROJECT_DIR$/saga-choreography/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saga-choreography/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/saga-choreography/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saga-orchestration/payment-service/payment-service (1).iml" filepath="$PROJECT_DIR$/saga-orchestration/payment-service/payment-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/saga-choreography/saga-choreography-demo.iml" filepath="$PROJECT_DIR$/saga-choreography/saga-choreography-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saga-orchestration/saga-orchestration-demo.iml" filepath="$PROJECT_DIR$/saga-orchestration/saga-orchestration-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/saga-pattern-demo.iml" filepath="$PROJECT_DIR$/.idea/saga-pattern-demo.iml" />
+    </modules>
+  </component>
+</project>
