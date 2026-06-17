@@ -51,6 +51,6 @@ jobs:
         uses: aws-actions/amazon-ecs-deploy-task-definition@v2
         with:
           task-definition: ${{ steps.task-def.outputs.task-definition }}
-          service: my-java-service # TODO: Change to your ECS service name
-          cluster: my-cluster # TODO: Change to your ECS cluster name
+          service: GitHub-Task-service-mj4do1ct # TODO: Change to your ECS service name
+          cluster: trusting-dog-m9yv32 # TODO: Change to your ECS cluster name
           wait-for-service-stability: true
