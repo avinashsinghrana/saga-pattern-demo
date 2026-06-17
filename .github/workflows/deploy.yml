@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'saga-choreography/**'
 
 # These permissions are required for OIDC authentication
 permissions:
